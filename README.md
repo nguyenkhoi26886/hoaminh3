@@ -5,3 +5,4 @@ kien thuc tot
 ban linh
 khiem ton
 tiep tuc ky luat
+thằng civic KYC khó quá
